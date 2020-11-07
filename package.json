@@ -9,9 +9,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["renny"],
+  "author": "renny",
+  "license": "MIT",
+  "homepage": "https://github.com/louis61619",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/louis61619/learn-cli"
+  },
   "dependencies": {
     "commander": "^6.1.0",
     "download-git-repo": "^3.0.2",
