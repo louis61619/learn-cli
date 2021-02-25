@@ -1,6 +1,6 @@
 # 說明文檔
 
-如何安装？
+如何安裝？
 
 ```shell
 npm install rennycreatevue -g
@@ -9,7 +9,7 @@ npm install rennycreatevue -g
 ## 創建項目
 
 
-创建项目
+創建項目
 
 ```shell
 renny create your_project_name
