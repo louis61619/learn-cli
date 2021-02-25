@@ -1,6 +1,6 @@
 {
-  "name": "02_learncli",
-  "version": "1.1.0",
+  "name": "rennycreatevue",
+  "version": "1.2.4",
   "description": "",
   "main": "index.js",
   "bin": {
